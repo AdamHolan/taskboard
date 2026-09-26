@@ -2,7 +2,14 @@
 
 Taskboard is a native Windows task organizer prototype written in C with the Win32 API. It brings a monthly calendar, a dated agenda, a filterable task list, and a task entry form into one dark-themed desktop interface.
 
-The project explores a small, maintainable foundation for a larger organizer: task rules live outside the UI, visual elements share a theme, and an optional assistant panel has its own component boundary. The assistant is currently a mock demonstration, not an AI integration.
+<img width="1548" height="951" alt="image" src="https://github.com/user-attachments/assets/62ba89ce-8d42-4527-9106-41c8a1e6f7e9" />
+
+<img width="1540" height="953" alt="image" src="https://github.com/user-attachments/assets/013df7b1-4ece-405a-b903-d9623b6575f9" />
+
+<img width="1539" height="961" alt="image" src="https://github.com/user-attachments/assets/a3827217-e605-48e1-aae9-04f86ce1994c" />
+
+
+The project explores a small, maintainable foundation for a larger organizer: task rules live outside the UI, visual elements share a theme, and an optional assistant panel has its own component boundary. The assistant is currently a **mock demonstration**, intended for future AI integration.
 
 ## What works
 
